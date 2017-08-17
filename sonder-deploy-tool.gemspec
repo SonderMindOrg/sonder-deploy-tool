@@ -5,7 +5,7 @@ require "sonder/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "sonder-deploy-tool"
-  spec.version       = Sonder::Deploy::Tool::VERSION
+  spec.version       = Sonder::VERSION
   spec.authors       = ["Cid Dennis"]
   spec.email         = ["cid.dennis@gmail.com"]
 
