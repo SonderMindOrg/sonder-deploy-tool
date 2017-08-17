@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Cid Dennis"]
   spec.email         = ["cid.dennis@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "Simple deploy tool script"
+  spec.description   = "Simple deploy tool script"
+  spec.homepage      = "https://github.com/SonderMindOrg/sonder-deploy-tool"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
